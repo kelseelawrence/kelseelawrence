@@ -15,8 +15,8 @@
 
 
 ## Links
-(CodePen)[https://codepen.io/kelseelawrence]
-(GitHub)[https://github.com/kelseelawrence]
-(LinkedIn)[www.linkedin.com/in/kelsee-lawrence-7b288a196]
+[CodePen](https://codepen.io/kelseelawrence) <br/>
+[GitHub](https://github.com/kelseelawrence) <br/>
+[LinkedIn](www.linkedin.com/in/kelsee-lawrence-7b288a196) <br/>
 
 
