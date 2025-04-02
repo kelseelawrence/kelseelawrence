@@ -1,5 +1,6 @@
 # Hi there 👋
-<iframe src="https://giphy.com/embed/GRPy8MKag9U1U88hzY" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY">via GIPHY</a></p> 
+![Cookie Monster Hello GIF by Sesame Street](https://github.com/user-attachments/assets/c3295714-aec2-4b95-b7da-a18a26341f1e)
+
 
 ## ⭐️ about me
 
