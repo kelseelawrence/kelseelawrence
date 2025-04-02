@@ -32,9 +32,8 @@ My name is Kelsee Lawrence and I am a senior at Eastern Washington University do
 - [LinkedIn](www.linkedin.com/in/kelsee-lawrence-7b288a196) <br/>
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseelawrence)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseelawrence&show_icons=true&theme=omni)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseelawrence&layout=compact)
 
 ![Visit Counter](https://komarev.com/ghpvc/?username=kelseelawrence&color=ff69b4&style=for-the-badge)
 
