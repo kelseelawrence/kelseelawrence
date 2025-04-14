@@ -29,7 +29,7 @@ My name is Kelsee Lawrence and I am a senior at Eastern Washington University do
 ## 💌 find me here!
 - [CodePen](https://codepen.io/kelseelawrence) <br/>
 - [GitHub](https://github.com/kelseelawrence) <br/>
-- [LinkedIn](www.linkedin.com/in/kelsee-lawrence) <br/>
+- [LinkedIn](https://www.linkedin.com/in/kelsee-lawrence) <br/>
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseelawrence&show_icons=true&theme=omni)
